@@ -1,0 +1,36 @@
+h1, h2{
+    color: darkslategrey;
+}
+.spring{
+    color: green;
+}
+
+.summer{
+    color: goldenrod;
+    font-stretch: semi-condensed;
+}
+
+.autumn{
+    color:firebrick ;
+    font-size: 300%;
+    font-variant: small-caps;
+}
+
+.winter{
+    color: dodgerblue;
+    font-size: xx-large;
+    font-stretch: semi-expanded;
+}
+
+#main_title{
+   color: midnightblue;
+   font-family: "Hachi Maru Pop", serif;
+   font-weight: 400;
+   font-style: normal;
+}
+
+p{
+    font-weight: bold;
+    font-stretch: semi-expanded;
+}
+
